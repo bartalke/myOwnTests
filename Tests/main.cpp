@@ -27,6 +27,8 @@ void startWithSomeAlgorithm()
     int a = 0;
     std::cout << "a: " << a;
     std::cout << "start with some algorithm";
+
+    std::cout << "end of startWithSomeAlgorithm";
 }
 
 int main()
