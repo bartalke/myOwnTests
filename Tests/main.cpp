@@ -25,6 +25,7 @@ int main()
 {
     std::cout << "Hello World!" << std::endl;
 
+    crazyShit();
     test();
     return 0;
 }
