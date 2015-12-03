@@ -31,12 +31,18 @@ void startWithSomeAlgorithm()
     std::cout << "end of startWithSomeAlgorithm";
 }
 
+void functionForFetchPurpose()
+{
+
+}
+
 int main()
 {
     std::cout << "Hello World!" << std::endl;
-
     startWithSomeAlgorithm();
     crazyShit();
+    crazyFeature();
+    functionForFetchPurpose();
     test();
     return 0;
 }
