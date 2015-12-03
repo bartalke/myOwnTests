@@ -1,4 +1,5 @@
 #include <iostream>
+#include <algorithm>
 #include <constants.hpp>
 
 void test()
@@ -21,10 +22,16 @@ void crazyShit()
     std::cout << "Crazy shit is good for PO";
 }
 
+void startWithSomeAlgorithm()
+{
+
+}
+
 int main()
 {
     std::cout << "Hello World!" << std::endl;
 
+    startWithSomeAlgorithm();
     crazyShit();
     test();
     return 0;
