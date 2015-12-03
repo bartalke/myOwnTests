@@ -16,6 +16,11 @@ void crazyFeature()
     std::cout << "Suga how u get so fly ?";
 }
 
+void crazyShit()
+{
+
+}
+
 int main()
 {
     std::cout << "Hello World!" << std::endl;
