@@ -13,7 +13,7 @@ void test()
 
 void crazyFeature()
 {
-    std::cout << "Suga how u get so fly ?";
+    std::cout << "Suga how u get so fly ?";asdas
 }
 
 int main()
