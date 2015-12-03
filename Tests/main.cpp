@@ -25,6 +25,7 @@ void crazyShit()
 void startWithSomeAlgorithm()
 {
     int a = 0;
+    std::cout << "a: " << a;
 }
 
 int main()
