@@ -24,7 +24,7 @@ void crazyShit()
 
 void startWithSomeAlgorithm()
 {
-
+    int a = 0;
 }
 
 int main()
