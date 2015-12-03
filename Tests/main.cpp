@@ -18,7 +18,7 @@ void crazyFeature()
 
 void crazyShit()
 {
-    std::cout << "Crazy shit";
+    std::cout << "Crazy shit is good for PO";
 }
 
 int main()
