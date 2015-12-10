@@ -34,6 +34,12 @@ void startWithSomeAlgorithm()
 void functionForFetchPurpose()
 {
     std::cout << "functionForFetchPurpose";
+    std::vector<int> vec;
+    auto it = vec.begin();
+    while(it != vec.end())
+    {
+        ++it;
+    }
 }
 
 int main()
