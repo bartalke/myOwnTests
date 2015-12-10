@@ -33,7 +33,7 @@ void startWithSomeAlgorithm()
 
 void functionForFetchPurpose()
 {
-
+    std::cout << "functionForFetchPurpose";
 }
 
 int main()
